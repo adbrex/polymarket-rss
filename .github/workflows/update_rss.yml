@@ -2,8 +2,8 @@ name: Polymarket RSS 毎日更新
  
 on:
   schedule:
-    # 毎日 午前9時（JST）= UTC 0:00 に実行
-    - cron: "0 0 * * *"
+      - cron: "0 21 * * *"  # 毎日 朝6時（JST）= UTC 21:00
+      - cron: "0 9 * * *"   # 毎日 夜18時（JST）= UTC 9:00
   workflow_dispatch:
  
 permissions:
