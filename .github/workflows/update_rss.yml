@@ -4,7 +4,7 @@ on:
   schedule:
     # 毎日 午前9時（JST）= UTC 0:00 に実行
     - cron: "0 0 * * *"
-  workflow_dispatch: # 手動実行も可能
+  workflow_dispatch:
  
 permissions:
   contents: write
@@ -21,6 +21,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+ 
+      - name: 翻訳ライブラリをインストール
+        run: pip install deep-translator
  
       - name: RSSフィード生成
         run: python generate_rss.py
