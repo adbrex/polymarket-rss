@@ -1,170 +1,170 @@
 <?xml version="1.0" ?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Polymarket トレンド Top20（2026-05-02）</title>
+    <title>Polymarket トレンド Top20（2026-05-03）</title>
     <link>https://polymarket.com/predictions?_sort=volume</link>
     <description>Polymarketの本日の取引量上位20マーケット（日本語訳付き）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 02 May 2026 23:28:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 11:28:54 +0000</lastBuildDate>
     <item>
-      <title>#1 📊 ビットコインは2026年6月30日までに15万ドルに達するでしょうか?（$5.8M）</title>
+      <title>#1 📊 QatarEnergyは4月30日までにカタールでのLNG生産を発表/再開しますか?（$11.3M）</title>
+      <link>https://polymarket.com/event/qatarenergy-announcesresumes-lng-production-in-qatar-by-april-30</link>
+      <guid>polymarket-qatarenergy-announcesresumes-lng-production-in-qatar-by-april-30-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 QatarEnergyは4月30日までにカタールでのLNG生産を発表/再開しますか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $11.3M&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $12.2M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $4.0M&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-04-30&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 100%&lt;br/&gt;  • No: 0%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 QatarEnergyは4月30日までにカタールでのLNG生産を発表/再開しますか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $11.3M&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $12.2M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $4.0M&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-04-30&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 100%&lt;br/&gt;  • No: 0%</description>
+    </item>
+    <item>
+      <title>#2 📊 ビットコインは2026年6月30日までに15万ドルに達するでしょうか?（$5.8M）</title>
       <link>https://polymarket.com/event/will-bitcoin-hit-150k-by-june-30-2026</link>
-      <guid>polymarket-will-bitcoin-hit-150k-by-june-30-2026-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
+      <guid>polymarket-will-bitcoin-hit-150k-by-june-30-2026-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
       <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 ビットコインは2026年6月30日までに15万ドルに達するでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $5.8M&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $15.7M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $20K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-07-01&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 1%&lt;br/&gt;  • No: 99%]]&gt;</content:encoded>
       <description>&lt;b&gt;🇯🇵 ビットコインは2026年6月30日までに15万ドルに達するでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $5.8M&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $15.7M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $20K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-07-01&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 1%&lt;br/&gt;  • No: 99%</description>
     </item>
     <item>
-      <title>#2 📊 QatarEnergyは4月30日までにカタールでのLNG生産を発表/再開しますか?（$4.3M）</title>
-      <link>https://polymarket.com/event/qatarenergy-announcesresumes-lng-production-in-qatar-by-april-30</link>
-      <guid>polymarket-qatarenergy-announcesresumes-lng-production-in-qatar-by-april-30-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 QatarEnergyは4月30日までにカタールでのLNG生産を発表/再開しますか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $4.3M&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $4.8M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $1.7M&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-04-30&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 100%&lt;br/&gt;  • No: 0%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 QatarEnergyは4月30日までにカタールでのLNG生産を発表/再開しますか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $4.3M&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $4.8M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $1.7M&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-04-30&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 100%&lt;br/&gt;  • No: 0%</description>
-    </item>
-    <item>
-      <title>#3 📊 76ers vs. セルティックス（$4.0M）</title>
-      <link>https://polymarket.com/event/nba-phi-bos-2026-05-02</link>
-      <guid>polymarket-nba-phi-bos-2026-05-02-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 76ers vs. セルティックス&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $4.0M&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $4.3M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $2.0M&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-02&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • 76ers: 40%&lt;br/&gt;  • Celtics: 60%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 76ers vs. セルティックス&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $4.0M&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $4.3M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $2.0M&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-02&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • 76ers: 40%&lt;br/&gt;  • Celtics: 60%</description>
-    </item>
-    <item>
-      <title>#4 📊 2026 年 5 月 2 日に FC バルセロナが勝つでしょうか?（$1.4M）</title>
-      <link>https://polymarket.com/event/lal-osa-bar-2026-05-02-bar</link>
-      <guid>polymarket-lal-osa-bar-2026-05-02-bar-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 2026 年 5 月 2 日に FC バルセロナが勝つでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $1.4M&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $1.5M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $645K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-02&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 100%&lt;br/&gt;  • No: 0%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 2026 年 5 月 2 日に FC バルセロナが勝つでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $1.4M&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $1.5M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $645K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-02&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 100%&lt;br/&gt;  • No: 0%</description>
-    </item>
-    <item>
-      <title>#5 📊 イラン政権は5月31日までに崩壊するでしょうか?（$1.0M）</title>
+      <title>#3 📊 イラン政権は5月31日までに崩壊するでしょうか?（$1.3M）</title>
       <link>https://polymarket.com/event/will-the-iranian-regime-fall-by-may-31</link>
-      <guid>polymarket-will-the-iranian-regime-fall-by-may-31-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 イラン政権は5月31日までに崩壊するでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $1.0M&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $13.3M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $1.1M&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-31&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 3%&lt;br/&gt;  • No: 97%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 イラン政権は5月31日までに崩壊するでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $1.0M&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $13.3M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $1.1M&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-31&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 3%&lt;br/&gt;  • No: 97%</description>
+      <guid>polymarket-will-the-iranian-regime-fall-by-may-31-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 イラン政権は5月31日までに崩壊するでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $1.3M&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $13.8M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $1.1M&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-31&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 3%&lt;br/&gt;  • No: 97%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 イラン政権は5月31日までに崩壊するでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $1.3M&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $13.8M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $1.1M&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-31&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 3%&lt;br/&gt;  • No: 97%</description>
     </item>
     <item>
-      <title>#6 📊 スプレッド: セルティックス (-8.5)（$930K）</title>
-      <link>https://polymarket.com/event/nba-phi-bos-2026-05-02-spread-home-8pt5</link>
-      <guid>polymarket-nba-phi-bos-2026-05-02-spread-home-8pt5-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 スプレッド: セルティックス (-8.5)&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $930K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $932K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $153K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-02&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Celtics: 34%&lt;br/&gt;  • 76ers: 66%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 スプレッド: セルティックス (-8.5)&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $930K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $932K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $153K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-02&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Celtics: 34%&lt;br/&gt;  • 76ers: 66%</description>
+      <title>#4 📊 LoL: KT Rolster vs HANJIN BRION (BO3) - LCK ラウンド 1-2（$822K）</title>
+      <link>https://polymarket.com/event/lol-kt-bro2-2026-05-03</link>
+      <guid>polymarket-lol-kt-bro2-2026-05-03-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 LoL: KT Rolster vs HANJIN BRION (BO3) - LCK ラウンド 1-2&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $822K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $833K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $236K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • KT Rolster: 0%&lt;br/&gt;  • HANJIN BRION: 100%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 LoL: KT Rolster vs HANJIN BRION (BO3) - LCK ラウンド 1-2&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $822K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $833K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $236K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • KT Rolster: 0%&lt;br/&gt;  • HANJIN BRION: 100%</description>
     </item>
     <item>
-      <title>#7 📊 Counter-Strike: Vitality vs GamerLegion (BO3) - BLAST ライバルズ プレーオフ（$699K）</title>
-      <link>https://polymarket.com/event/cs2-vit-gl1-2026-05-02</link>
-      <guid>polymarket-cs2-vit-gl1-2026-05-02-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 Counter-Strike: Vitality vs GamerLegion (BO3) - BLAST ライバルズ プレーオフ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $699K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $699K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $663K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Vitality: 100%&lt;br/&gt;  • GamerLegion: 0%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 Counter-Strike: Vitality vs GamerLegion (BO3) - BLAST ライバルズ プレーオフ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $699K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $699K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $663K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Vitality: 100%&lt;br/&gt;  • GamerLegion: 0%</description>
+      <title>#5 📊 LoL: KT Rolster vs HANJIN BRION - ゲーム 1 勝者（$812K）</title>
+      <link>https://polymarket.com/event/lol-kt-bro2-2026-05-03-game1</link>
+      <guid>polymarket-lol-kt-bro2-2026-05-03-game1-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 LoL: KT Rolster vs HANJIN BRION - ゲーム 1 勝者&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $812K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $812K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $495K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • KT Rolster: 0%&lt;br/&gt;  • HANJIN BRION: 100%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 LoL: KT Rolster vs HANJIN BRION - ゲーム 1 勝者&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $812K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $812K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $495K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • KT Rolster: 0%&lt;br/&gt;  • HANJIN BRION: 100%</description>
     </item>
     <item>
-      <title>#8 📊 トロント・ブルージェイズ vs. ミネソタ・ツインズ（$648K）</title>
-      <link>https://polymarket.com/event/mlb-tor-min-2026-05-02</link>
-      <guid>polymarket-mlb-tor-min-2026-05-02-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 トロント・ブルージェイズ vs. ミネソタ・ツインズ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $648K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $648K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $405K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-09&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Toronto Blue Jays: 100%&lt;br/&gt;  • Minnesota Twins: 0%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 トロント・ブルージェイズ vs. ミネソタ・ツインズ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $648K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $648K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $405K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-09&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Toronto Blue Jays: 100%&lt;br/&gt;  • Minnesota Twins: 0%</description>
+      <title>#6 📊 2026年5月3日、マンチェスター・ユナイテッドFCは勝つでしょうか?（$774K）</title>
+      <link>https://polymarket.com/event/epl-mun-liv-2026-05-03-mun</link>
+      <guid>polymarket-epl-mun-liv-2026-05-03-mun-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 2026年5月3日、マンチェスター・ユナイテッドFCは勝つでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $774K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $815K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $739K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 42%&lt;br/&gt;  • No: 58%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 2026年5月3日、マンチェスター・ユナイテッドFCは勝つでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $774K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $815K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $739K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 42%&lt;br/&gt;  • No: 58%</description>
     </item>
     <item>
-      <title>#9 📊 スプレッド: セルティックス (-7.5)（$643K）</title>
-      <link>https://polymarket.com/event/nba-phi-bos-2026-05-02-spread-home-7pt5</link>
-      <guid>polymarket-nba-phi-bos-2026-05-02-spread-home-7pt5-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 スプレッド: セルティックス (-7.5)&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $643K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $672K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $380K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-02&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Celtics: 38%&lt;br/&gt;  • 76ers: 62%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 スプレッド: セルティックス (-7.5)&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $643K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $672K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $380K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-02&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Celtics: 38%&lt;br/&gt;  • 76ers: 62%</description>
+      <title>#7 📊 LoL: ThunderTalk Gaming vs LNG Esports (BO3) - LPL グループ ニルヴァーナ（$661K）</title>
+      <link>https://polymarket.com/event/lol-tt-lng-2026-05-03</link>
+      <guid>polymarket-lol-tt-lng-2026-05-03-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 LoL: ThunderTalk Gaming vs LNG Esports (BO3) - LPL グループ ニルヴァーナ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $661K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $688K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $708K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • ThunderTalk Gaming: 0%&lt;br/&gt;  • LNG Esports: 100%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 LoL: ThunderTalk Gaming vs LNG Esports (BO3) - LPL グループ ニルヴァーナ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $661K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $688K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $708K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • ThunderTalk Gaming: 0%&lt;br/&gt;  • LNG Esports: 100%</description>
     </item>
     <item>
-      <title>#10 📊 アリゾナ・ダイヤモンドバックス vs. シカゴ・カブス（$634K）</title>
-      <link>https://polymarket.com/event/mlb-ari-chc-2026-05-02</link>
-      <guid>polymarket-mlb-ari-chc-2026-05-02-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 アリゾナ・ダイヤモンドバックス vs. シカゴ・カブス&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $634K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $635K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $380K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-09&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Arizona Diamondbacks: 0%&lt;br/&gt;  • Chicago Cubs: 100%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 アリゾナ・ダイヤモンドバックス vs. シカゴ・カブス&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $634K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $635K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $380K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-09&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Arizona Diamondbacks: 0%&lt;br/&gt;  • Chicago Cubs: 100%</description>
+      <title>#8 📊 インディアン・プレミア・リーグ: サンライザーズ・ハイデラバード vs コルカタ・ナイト・ライダーズ（$651K）</title>
+      <link>https://polymarket.com/event/cricipl-sun-kol-2026-05-03</link>
+      <guid>polymarket-cricipl-sun-kol-2026-05-03-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 インディアン・プレミア・リーグ: サンライザーズ・ハイデラバード vs コルカタ・ナイト・ライダーズ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $651K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $663K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $73K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-10&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Sunrisers Hyderabad: 30%&lt;br/&gt;  • Kolkata Knight Riders: 70%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 インディアン・プレミア・リーグ: サンライザーズ・ハイデラバード vs コルカタ・ナイト・ライダーズ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $651K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $663K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $73K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-10&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Sunrisers Hyderabad: 30%&lt;br/&gt;  • Kolkata Knight Riders: 70%</description>
     </item>
     <item>
-      <title>#11 📊 シンシナティ・レッズ vs. ピッツバーグ・パイレーツ（$582K）</title>
-      <link>https://polymarket.com/event/mlb-cin-pit-2026-05-02</link>
-      <guid>polymarket-mlb-cin-pit-2026-05-02-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 シンシナティ・レッズ vs. ピッツバーグ・パイレーツ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $582K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $582K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $567K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-09&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Cincinnati Reds: 0%&lt;br/&gt;  • Pittsburgh Pirates: 100%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 シンシナティ・レッズ vs. ピッツバーグ・パイレーツ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $582K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $582K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $567K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-09&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Cincinnati Reds: 0%&lt;br/&gt;  • Pittsburgh Pirates: 100%</description>
+      <title>#9 📊 LoL: ThunderTalk Gaming vs LNG Esports - ゲーム 2 の勝者（$615K）</title>
+      <link>https://polymarket.com/event/lol-tt-lng-2026-05-03-game2</link>
+      <guid>polymarket-lol-tt-lng-2026-05-03-game2-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 LoL: ThunderTalk Gaming vs LNG Esports - ゲーム 2 の勝者&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $615K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $615K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $402K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • ThunderTalk Gaming: 100%&lt;br/&gt;  • LNG Esports: 0%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 LoL: ThunderTalk Gaming vs LNG Esports - ゲーム 2 の勝者&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $615K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $615K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $402K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • ThunderTalk Gaming: 100%&lt;br/&gt;  • LNG Esports: 0%</description>
     </item>
     <item>
-      <title>#12 📊 フィラデルフィア・フィリーズ対マイアミ・マーリンズ（$568K）</title>
-      <link>https://polymarket.com/event/mlb-phi-mia-2026-05-02</link>
-      <guid>polymarket-mlb-phi-mia-2026-05-02-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 フィラデルフィア・フィリーズ対マイアミ・マーリンズ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $568K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $568K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $589K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-09&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Philadelphia Phillies: 0%&lt;br/&gt;  • Miami Marlins: 100%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 フィラデルフィア・フィリーズ対マイアミ・マーリンズ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $568K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $568K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $589K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-09&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Philadelphia Phillies: 0%&lt;br/&gt;  • Miami Marlins: 100%</description>
-    </item>
-    <item>
-      <title>#13 📊 76ers vs. セルティックス: O/U 205.5（$538K）</title>
-      <link>https://polymarket.com/event/nba-phi-bos-2026-05-02-total-205pt5</link>
-      <guid>polymarket-nba-phi-bos-2026-05-02-total-205pt5-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 76ers vs. セルティックス: O/U 205.5&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $538K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $538K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $195K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-02&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Over: 48%&lt;br/&gt;  • Under: 52%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 76ers vs. セルティックス: O/U 205.5&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $538K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $538K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $195K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-02&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Over: 48%&lt;br/&gt;  • Under: 52%</description>
-    </item>
-    <item>
-      <title>#14 📊 デトロイト・ピストンズは2026年のNBAファイナルで優勝するでしょうか?（$525K）</title>
-      <link>https://polymarket.com/event/will-the-detroit-pistons-win-the-2026-nba-finals</link>
-      <guid>polymarket-will-the-detroit-pistons-win-the-2026-nba-finals-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 デトロイト・ピストンズは2026年のNBAファイナルで優勝するでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $525K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $15.0M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $171K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-07-01&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 4%&lt;br/&gt;  • No: 96%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 デトロイト・ピストンズは2026年のNBAファイナルで優勝するでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $525K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $15.0M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $171K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-07-01&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 4%&lt;br/&gt;  • No: 96%</description>
-    </item>
-    <item>
-      <title>#15 📊 スプレッド: セルティックス (-6.5)（$505K）</title>
-      <link>https://polymarket.com/event/nba-phi-bos-2026-05-02-spread-home-6pt5</link>
-      <guid>polymarket-nba-phi-bos-2026-05-02-spread-home-6pt5-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 スプレッド: セルティックス (-6.5)&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $505K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $505K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $573K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-02&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Celtics: 42%&lt;br/&gt;  • 76ers: 58%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 スプレッド: セルティックス (-6.5)&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $505K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $505K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $573K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-02&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Celtics: 42%&lt;br/&gt;  • 76ers: 58%</description>
-    </item>
-    <item>
-      <title>#16 📊 フィラデルフィア・セブンティシクサーズは2026年のNBAファイナルで優勝するでしょうか?（$504K）</title>
+      <title>#10 📊 フィラデルフィア・セブンティシクサーズは2026年のNBAファイナルで優勝するでしょうか?（$608K）</title>
       <link>https://polymarket.com/event/will-the-philadelphia-76ers-win-the-2026-nba-finals</link>
-      <guid>polymarket-will-the-philadelphia-76ers-win-the-2026-nba-finals-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 フィラデルフィア・セブンティシクサーズは2026年のNBAファイナルで優勝するでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $504K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $15.4M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $220K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-07-01&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 1%&lt;br/&gt;  • No: 99%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 フィラデルフィア・セブンティシクサーズは2026年のNBAファイナルで優勝するでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $504K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $15.4M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $220K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-07-01&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 1%&lt;br/&gt;  • No: 99%</description>
+      <guid>polymarket-will-the-philadelphia-76ers-win-the-2026-nba-finals-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 フィラデルフィア・セブンティシクサーズは2026年のNBAファイナルで優勝するでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $608K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $15.7M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $369K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-07-01&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 3%&lt;br/&gt;  • No: 97%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 フィラデルフィア・セブンティシクサーズは2026年のNBAファイナルで優勝するでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $608K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $15.7M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $369K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-07-01&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 3%&lt;br/&gt;  • No: 97%</description>
     </item>
     <item>
-      <title>#17 📊 Counter-Strike: Vitality vs GamerLegion - マップ 2 の勝者（$459K）</title>
-      <link>https://polymarket.com/event/cs2-vit-gl1-2026-05-02-game2</link>
-      <guid>polymarket-cs2-vit-gl1-2026-05-02-game2-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 Counter-Strike: Vitality vs GamerLegion - マップ 2 の勝者&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $459K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $459K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $320K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Vitality: 100%&lt;br/&gt;  • GamerLegion: 0%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 Counter-Strike: Vitality vs GamerLegion - マップ 2 の勝者&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $459K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $459K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $320K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Vitality: 100%&lt;br/&gt;  • GamerLegion: 0%</description>
+      <title>#11 📊 ラプターズ対キャバリアーズ（$561K）</title>
+      <link>https://polymarket.com/event/nba-tor-cle-2026-05-03</link>
+      <guid>polymarket-nba-tor-cle-2026-05-03-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 ラプターズ対キャバリアーズ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $561K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $680K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $350K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Raptors: 28%&lt;br/&gt;  • Cavaliers: 72%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 ラプターズ対キャバリアーズ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $561K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $680K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $350K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Raptors: 28%&lt;br/&gt;  • Cavaliers: 72%</description>
     </item>
     <item>
-      <title>#18 📊 クリーブランド・ガーディアンズ vs アスレチックス（$434K）</title>
-      <link>https://polymarket.com/event/mlb-cle-oak-2026-05-02</link>
-      <guid>polymarket-mlb-cle-oak-2026-05-02-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 クリーブランド・ガーディアンズ vs アスレチックス&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $434K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $434K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $529K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-09&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Cleveland Guardians: 100%&lt;br/&gt;  • Athletics: 0%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 クリーブランド・ガーディアンズ vs アスレチックス&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $434K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $434K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $529K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-09&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Cleveland Guardians: 100%&lt;br/&gt;  • Athletics: 0%</description>
+      <title>#12 📊 LoL: DN SOOPers vs BNK FEARX (BO3) - LCK ラウンド 1-2（$533K）</title>
+      <link>https://polymarket.com/event/lol-dnf-fox1-2026-05-03</link>
+      <guid>polymarket-lol-dnf-fox1-2026-05-03-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 LoL: DN SOOPers vs BNK FEARX (BO3) - LCK ラウンド 1-2&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $533K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $555K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $70K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • DN SOOPers: 2%&lt;br/&gt;  • BNK FEARX: 98%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 LoL: DN SOOPers vs BNK FEARX (BO3) - LCK ラウンド 1-2&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $533K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $555K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $70K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • DN SOOPers: 2%&lt;br/&gt;  • BNK FEARX: 98%</description>
     </item>
     <item>
-      <title>#19 📊 米国とイランの外交会談は2026年5月5日までに？（$396K）</title>
+      <title>#13 📊 LoL: DN SOOPers vs BNK FEARX - ゲーム 1 勝者（$501K）</title>
+      <link>https://polymarket.com/event/lol-dnf-fox1-2026-05-03-game1</link>
+      <guid>polymarket-lol-dnf-fox1-2026-05-03-game1-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 LoL: DN SOOPers vs BNK FEARX - ゲーム 1 勝者&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $501K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $501K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $195K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • DN SOOPers: 0%&lt;br/&gt;  • BNK FEARX: 100%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 LoL: DN SOOPers vs BNK FEARX - ゲーム 1 勝者&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $501K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $501K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $195K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • DN SOOPers: 0%&lt;br/&gt;  • BNK FEARX: 100%</description>
+    </item>
+    <item>
+      <title>#14 📊 ホルムズ海峡の交通は5月15日までに通常に戻る？（$458K）</title>
+      <link>https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-may-15</link>
+      <guid>polymarket-strait-of-hormuz-traffic-returns-to-normal-by-may-15-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 ホルムズ海峡の交通は5月15日までに通常に戻る？&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $458K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $4.6M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $543K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-15&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 4%&lt;br/&gt;  • No: 96%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 ホルムズ海峡の交通は5月15日までに通常に戻る？&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $458K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $4.6M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $543K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-15&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 4%&lt;br/&gt;  • No: 96%</description>
+    </item>
+    <item>
+      <title>#15 📊 マジック vs. ピストンズ（$455K）</title>
+      <link>https://polymarket.com/event/nba-orl-det-2026-05-03</link>
+      <guid>polymarket-nba-orl-det-2026-05-03-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 マジック vs. ピストンズ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $455K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $543K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $424K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Magic: 26%&lt;br/&gt;  • Pistons: 74%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 マジック vs. ピストンズ&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $455K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $543K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $424K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Magic: 26%&lt;br/&gt;  • Pistons: 74%</description>
+    </item>
+    <item>
+      <title>#16 📊 米国は5月31日までにイランの濃縮ウランを入手？（$451K）</title>
+      <link>https://polymarket.com/event/us-obtains-iranian-enriched-uranium-by-may-31-396</link>
+      <guid>polymarket-us-obtains-iranian-enriched-uranium-by-may-31-396-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 米国は5月31日までにイランの濃縮ウランを入手？&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $451K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $8.2M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $389K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-31&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 10%&lt;br/&gt;  • No: 90%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 米国は5月31日までにイランの濃縮ウランを入手？&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $451K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $8.2M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $389K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-31&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 10%&lt;br/&gt;  • No: 90%</description>
+    </item>
+    <item>
+      <title>#17 📊 LoL: KT Rolster vs HANJIN BRION - ゲーム 2 勝者（$411K）</title>
+      <link>https://polymarket.com/event/lol-kt-bro2-2026-05-03-game2</link>
+      <guid>polymarket-lol-kt-bro2-2026-05-03-game2-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 LoL: KT Rolster vs HANJIN BRION - ゲーム 2 勝者&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $411K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $411K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $418K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • KT Rolster: 0%&lt;br/&gt;  • HANJIN BRION: 100%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 LoL: KT Rolster vs HANJIN BRION - ゲーム 2 勝者&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $411K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $411K&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $418K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-03&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • KT Rolster: 0%&lt;br/&gt;  • HANJIN BRION: 100%</description>
+    </item>
+    <item>
+      <title>#18 📊 米国とイランの外交会談は2026年5月5日までに？（$402K）</title>
       <link>https://polymarket.com/event/us-x-iran-diplomatic-meeting-by-may-5-2026</link>
-      <guid>polymarket-us-x-iran-diplomatic-meeting-by-may-5-2026-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 米国とイランの外交会談は2026年5月5日までに？&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $396K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $2.0M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $165K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-05&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 3%&lt;br/&gt;  • No: 97%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 米国とイランの外交会談は2026年5月5日までに？&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $396K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $2.0M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $165K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-05&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 3%&lt;br/&gt;  • No: 97%</description>
+      <guid>polymarket-us-x-iran-diplomatic-meeting-by-may-5-2026-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 米国とイランの外交会談は2026年5月5日までに？&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $402K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $2.2M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $207K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-05&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 2%&lt;br/&gt;  • No: 98%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 米国とイランの外交会談は2026年5月5日までに？&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $402K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $2.2M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $207K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-05&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 2%&lt;br/&gt;  • No: 98%</description>
     </item>
     <item>
-      <title>#20 📊 オーランド・マジックは2026年のNBAファイナルで優勝するでしょうか?（$394K）</title>
-      <link>https://polymarket.com/event/will-the-orlando-magic-win-the-2026-nba-finals</link>
-      <guid>polymarket-will-the-orlando-magic-win-the-2026-nba-finals-2026-05-02</guid>
-      <pubDate>Sat, 02 May 2026 23:28:15 +0000</pubDate>
-      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 オーランド・マジックは2026年のNBAファイナルで優勝するでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $394K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $14.9M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $447K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-07-01&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 0%&lt;br/&gt;  • No: 100%]]&gt;</content:encoded>
-      <description>&lt;b&gt;🇯🇵 オーランド・マジックは2026年のNBAファイナルで優勝するでしょうか?&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $394K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $14.9M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $447K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-07-01&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 0%&lt;br/&gt;  • No: 100%</description>
+      <title>#19 📊 ホルムズ海峡の交通は5月末までに正常に戻る？（$361K）</title>
+      <link>https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may</link>
+      <guid>polymarket-strait-of-hormuz-traffic-returns-to-normal-by-end-of-may-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 ホルムズ海峡の交通は5月末までに正常に戻る？&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $361K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $5.0M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $469K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-31&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 20%&lt;br/&gt;  • No: 80%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 ホルムズ海峡の交通は5月末までに正常に戻る？&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $361K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $5.0M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $469K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-31&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 20%&lt;br/&gt;  • No: 80%</description>
+    </item>
+    <item>
+      <title>#20 📊 米国とイランの恒久和平合意は2026年5月31日まで？（$339K）</title>
+      <link>https://polymarket.com/event/us-x-iran-permanent-peace-deal-by-may-31-2026-333-871</link>
+      <guid>polymarket-us-x-iran-permanent-peace-deal-by-may-31-2026-333-871-2026-05-03</guid>
+      <pubDate>Sun, 03 May 2026 11:28:54 +0000</pubDate>
+      <content:encoded>&lt;![CDATA[&lt;b&gt;🇯🇵 米国とイランの恒久和平合意は2026年5月31日まで？&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $339K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $10.4M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $554K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-31&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 18%&lt;br/&gt;  • No: 82%]]&gt;</content:encoded>
+      <description>&lt;b&gt;🇯🇵 米国とイランの恒久和平合意は2026年5月31日まで？&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;本日の取引量:&lt;/b&gt; $339K&lt;br/&gt;&lt;b&gt;累計取引量:&lt;/b&gt; $10.4M&lt;br/&gt;&lt;b&gt;流動性:&lt;/b&gt; $554K&lt;br/&gt;&lt;b&gt;終了日:&lt;/b&gt; 2026-05-31&lt;br/&gt;&lt;b&gt;現在の確率:&lt;/b&gt;&lt;br/&gt;  • Yes: 18%&lt;br/&gt;  • No: 82%</description>
     </item>
   </channel>
 </rss>
